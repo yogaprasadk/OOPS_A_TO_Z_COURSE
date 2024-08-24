@@ -10,3 +10,6 @@
 <h3>OOP 4 | Access Control, In-built Packages, Object Class</h3>
 <a href="https://youtu.be/W145DXs8fFg?si=qC-yj6LFbHTFVAy1"><img src="https://github.com/user-attachments/assets/209890b0-eed4-4d72-befc-9009cbb789eb"/></a>
 <br/>
+<h3>OOP 7 | collections and framework</h3>
+<a href="https://youtu.be/9ogGan-R1pc?si=FV4YCBRXZ_3MGgZg"><img src="https://github.com/user-attachments/assets/7d78f90e-fb12-4576-b459-01449c2b3ad9"/></a>
+<br/>
